@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 An enthusiastic Software Engineering Student with experience and extensive education in software design and computer engineering. Fast learner with strong time management and multi-tasking skills.
 
 <p align="center">
-  <img src="https://images.unsplash.com/photo-1515879218367-8466d910aaa4?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80" width="750" height="400">
+  <img style='height: 100%; width: 100%; object-fit: contain'/ src="https://images.unsplash.com/photo-1515879218367-8466d910aaa4?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80" >
 </p>
 
 ## Skills
@@ -27,8 +27,9 @@ An enthusiastic Software Engineering Student with experience and extensive educa
 
 ## Best Projects
 <a href="https://github.com/miquelperello/Compressor"><img src="https://img.shields.io/badge/🗜️Compressor-342366"/></a>
-<a href="https://github.com/miquelperello/Compressor"><img src="https://img.shields.io/badge/⚕️Rarebot-667866"/></a>
-<a href="https://github.com/miquelperello/Compressor"><img src="https://img.shields.io/badge/🦠Corobot19-127866"/></a>
+<a href="https://github.com/miquelperello/RareBot"><img src="https://img.shields.io/badge/⚕️Rarebot-667866"/></a>
+<a href="https://github.com/miquelperello/HackFromHome"><img src="https://img.shields.io/badge/🦠Corobot19-127866"/></a>
+<a href="https://github.com/miquelperello/PES-Grup-12-Subgrup-1-App"><img src="https://img.shields.io/badge/🛡️SecurEvent-248547"/></a>
 
 ## Contact
 <a href="https://github.com/miquelperello/miquelperello/blob/master/src/MiquelPerelloRodriguezResume-ENG.pdf"><img src="https://img.shields.io/badge/🔽Download_My_CV-002366"/></a>
