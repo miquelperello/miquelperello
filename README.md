@@ -31,9 +31,7 @@ An enthusiastic Software Engineering Student with experience and extensive educa
 <a href="https://github.com/miquelperello/HackFromHome"><img src="https://img.shields.io/badge/🦠Corobot19-127866"/></a>
 <a href="https://github.com/miquelperello/PES-Grup-12-Subgrup-1-App"><img src="https://img.shields.io/badge/🛡️SecurEvent-248547"/></a>
 
-## Contact
-<a href="https://github.com/miquelperello/miquelperello/blob/master/src/MiquelPerelloRodriguezResume-ENG.pdf"><img src="https://img.shields.io/badge/🔽Download_My_CV-002366"/></a>
-<a href="https://www.linkedin.com/in/miquel-perelló"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+
 
  
 
